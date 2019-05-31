@@ -1,10 +1,19 @@
 
 var level = argument0;
 
-//Row then column
-solution_array = [];
-get_level_data_from_csv(level);
-shuffle_solution_array();
+if level >= 12 {
+	show_message("You Win!");
+	game_end();
+}
 
 // Create an array of solution components
+//Row then column
+solution_array = [];
+location_array = [];
+get_level_data_from_csv(level);
+
+
+//shuffle_location_array();
+
+
 

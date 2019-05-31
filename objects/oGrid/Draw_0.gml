@@ -1,5 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-level = 3;
-alarm[0] = 1;
+draw_text(800,200,"Level: "+string(level-2));

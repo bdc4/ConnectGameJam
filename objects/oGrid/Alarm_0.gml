@@ -9,17 +9,18 @@ start_level(level);
 // Set up grid
 for (var i=0; i <= array_length_1d(solution_array)-1; i++) {
 	
-	var tile = solution_array[i];
-	var r = tile[0];
-	var c = tile[1];
-	var type = tile[2];
+	var location = location_array[i];
+	var r = location[0];
+	var c = location[1];
+	
+	var type = solution_array[i];
 	
 	var obj = type == "BLANK" ? oBlankTile : oTile;
 	
 	var o = instance_create_layer(
 		x + (r-1) * (tile_width + 4),
 		y + (c-1)*(tile_height + 4), 
-		"Grid_Layer", 
+		"Tile_Layer", 
 		obj
 	);
 	o.type = type;

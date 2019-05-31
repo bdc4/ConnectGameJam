@@ -7,7 +7,7 @@ var xx = grid.x;
 var yy = grid.y;
 
 with all {
-	if id != other.id {
+	if object_index != oGameController and object_index != oExport {
 		instance_destroy();
 	}
 }
