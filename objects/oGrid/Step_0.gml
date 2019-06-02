@@ -29,11 +29,6 @@ if win and !instance_exists(oExport) {
 				alarm[0] = 30;
 			}
 		}
-		var newLevel = level;
-		while (newLevel == level) {
-			newLevel = irandom_range(3,5);
-		}
-		level = newLevel;
 		myScore++;
 		alarm[0] = 1;
 		win_timer = 60;

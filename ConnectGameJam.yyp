@@ -47,18 +47,10 @@
             }
         },
         {
-            "Key": "02c5a2ca-a389-40c4-9798-6c0cb7065cfa",
+            "Key": "0bf7ddbd-5b35-4f07-ba54-597f46588b64",
             "Value": {
-                "id": "7d4ab34b-965b-46b5-9ce0-8d9908dbe728",
-                "resourcePath": "datafiles_yy\\solutions\\Connect21.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "169e38d9-6d38-4b5d-a153-fc12c9d71b6e",
-            "Value": {
-                "id": "57802b3b-91f0-4a86-8e0c-598c86b1b244",
-                "resourcePath": "datafiles_yy\\levels\\Connect5.csv.yy",
+                "id": "801c13f7-68b1-412b-a9cc-e2b46c6988ad",
+                "resourcePath": "datafiles_yy\\Solutions\\Expert\\Connect_5x5_1.csv.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
@@ -71,35 +63,19 @@
             }
         },
         {
+            "Key": "1c9ec161-7e5a-4aa3-af96-cbb1da9b859c",
+            "Value": {
+                "id": "d793d138-0b1e-4fa1-8205-bca0218427e9",
+                "resourcePath": "datafiles_yy\\Solutions\\Expert\\Connect_5x5_2.csv.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "1d2cad08-f4fa-49fb-ad99-06e3b68468dc",
             "Value": {
                 "id": "85b7f64b-2bb4-4b51-a1ca-0934209a91cd",
                 "resourcePath": "views\\1d2cad08-f4fa-49fb-ad99-06e3b68468dc.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "221fb354-fd80-489f-9706-24a37de0d176",
-            "Value": {
-                "id": "7814e504-e997-4f3a-9f9a-403c18dbd8e3",
-                "resourcePath": "datafiles_yy\\solutions\\Connect20.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "24cdb4e5-3053-4b12-b1cb-ef7b5ca3f5f1",
-            "Value": {
-                "id": "cc06aa58-6ec7-4e3c-a00f-2629f9f9878b",
-                "resourcePath": "datafiles_yy\\levels\\Connect3.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "26807b26-2537-43f2-8db6-ef69789291b0",
-            "Value": {
-                "id": "0d8ccae9-a830-4ae3-b5b9-f034eecb7bde",
-                "resourcePath": "datafiles_yy\\levels\\Connect8.csv.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -111,19 +87,19 @@
             }
         },
         {
+            "Key": "2846e15d-1ea8-4db9-94df-076a1e515442",
+            "Value": {
+                "id": "a9752b62-0236-461b-962f-576005b62554",
+                "resourcePath": "views\\2846e15d-1ea8-4db9-94df-076a1e515442.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "28a64ffc-eeb1-45a2-a6b5-41abdf471cf3",
             "Value": {
                 "id": "4d3e73b7-e58e-45d2-bb25-4f8035dc6c6c",
                 "resourcePath": "rooms\\roomPractice\\roomPractice.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "2b3f069a-9871-4ee5-abb3-9d26a1c6b47a",
-            "Value": {
-                "id": "f99f307a-a9a8-457a-9514-7567d89b25bb",
-                "resourcePath": "views\\2b3f069a-9871-4ee5-abb3-9d26a1c6b47a.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -143,6 +119,14 @@
             }
         },
         {
+            "Key": "2fd6a448-1e88-41ce-8bd7-30b77c456db4",
+            "Value": {
+                "id": "6068edd2-7c7c-49c1-ab6a-06a03b2d5715",
+                "resourcePath": "views\\2fd6a448-1e88-41ce-8bd7-30b77c456db4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3187decb-cefd-4dcd-a2b9-62bc6cbfae25",
             "Value": {
                 "id": "e985a9e7-124d-4e9c-9d94-3abaa3b7915e",
@@ -151,43 +135,27 @@
             }
         },
         {
-            "Key": "357187e1-fabd-470c-8d50-ca238204d028",
+            "Key": "3a21b78b-19d3-466e-bfd7-ac766725147b",
             "Value": {
-                "id": "908352e0-0db7-4eec-9324-cd3087a412d7",
-                "resourcePath": "datafiles_yy\\levels\\Connect4.csv.yy",
+                "id": "fef821dc-8a62-44a8-b0ec-6c08b66860bc",
+                "resourcePath": "datafiles_yy\\Solutions\\Medium\\Connect_4x3_1.csv.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
         {
-            "Key": "38fe47fb-49c6-4d68-93f8-c1c0a8e6b002",
+            "Key": "3b8a9c06-21bc-41d9-bbd2-bf4b1581814c",
             "Value": {
-                "id": "b6742d3a-4d02-4bb0-a569-16bdb4233769",
-                "resourcePath": "datafiles_yy\\solutions\\Connect2.csv.yy",
+                "id": "a13f6f7d-5278-46f0-98c7-e73e0c9e458f",
+                "resourcePath": "datafiles_yy\\Solutions\\Hard\\Connect_4x4_2.csv.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
         {
-            "Key": "39b1cd82-8018-4d79-9ce7-f09ed0727870",
+            "Key": "3fa9dc31-6b50-4481-b19b-209aa89534dc",
             "Value": {
-                "id": "f153accd-14a7-4b49-8ef3-3b413948ff8a",
-                "resourcePath": "datafiles_yy\\solutions\\Connect18.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "39be65ff-ef80-4ef2-ab46-0591c5b2da97",
-            "Value": {
-                "id": "2eb1b598-073c-4f21-837e-e3e04b7d63da",
-                "resourcePath": "datafiles_yy\\solutions\\Connect8.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "3c700d6e-1efa-49f3-adff-e9c0841a3857",
-            "Value": {
-                "id": "fe78b1ec-e189-4f32-9d07-baf2f6d66e9e",
-                "resourcePath": "datafiles_yy\\solutions\\Connect14.csv.yy",
-                "resourceType": "GMIncludedFile"
+                "id": "ba2745db-8a9f-474d-a611-9bfe4e3760f3",
+                "resourcePath": "sounds\\sndExplosion2\\sndExplosion2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -207,11 +175,27 @@
             }
         },
         {
+            "Key": "4df68245-35d7-416b-9f6b-7e11c351e37a",
+            "Value": {
+                "id": "5c137e3e-0aed-4dcd-9005-0adfd184afd0",
+                "resourcePath": "sounds\\sndExplosion3\\sndExplosion3.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4eb27a8e-77ea-4af2-aeea-55e104362202",
             "Value": {
                 "id": "047c1457-65c6-4ec0-9c59-85f2db20ddd0",
                 "resourcePath": "scripts\\get_point_from_direction\\get_point_from_direction.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "503f671a-3fd9-468f-8274-8ef992c93c85",
+            "Value": {
+                "id": "1e36fcaa-2afb-4647-a867-cbf2df518ae5",
+                "resourcePath": "datafiles_yy\\Solutions\\Easy\\Connect_3x3_1.csv.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -247,6 +231,14 @@
             }
         },
         {
+            "Key": "578c9dbe-f780-47b8-9ea5-56b955dc9710",
+            "Value": {
+                "id": "78b0e699-304c-4d9b-a689-d610b0a51432",
+                "resourcePath": "datafiles_yy\\Solutions\\Medium\\Connect_4x3_6.csv.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "59c2042d-a390-4479-b50f-d3e0d3c14376",
             "Value": {
                 "id": "7694c25a-3094-4119-9c96-544882b5b3cc",
@@ -255,27 +247,11 @@
             }
         },
         {
-            "Key": "5bfe1d8b-20b8-4f57-a01e-d9115e65cca7",
+            "Key": "5d2471d8-572c-42c0-bc6a-e78e2cbae327",
             "Value": {
-                "id": "8f564b2f-3967-4f42-b596-2eef0af5c856",
-                "resourcePath": "datafiles_yy\\solutions\\Connect5.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "5f0c2685-dfef-4646-acea-da78774dc4e5",
-            "Value": {
-                "id": "0324672f-6f23-4edb-95e5-f5dd0689cfaa",
-                "resourcePath": "datafiles_yy\\solutions\\Connect3.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "5f39d392-1429-400a-8ab5-290945d3ff15",
-            "Value": {
-                "id": "4bc9a658-83a5-43e0-8772-85890a502dfb",
-                "resourcePath": "datafiles_yy\\levels\\Connect11.csv.yy",
-                "resourceType": "GMIncludedFile"
+                "id": "33917392-b073-476a-9322-f92e89db4463",
+                "resourcePath": "scripts\\get_files_in_folder\\get_files_in_folder.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -287,10 +263,26 @@
             }
         },
         {
-            "Key": "633def73-7926-4723-9d11-cfa2e5374013",
+            "Key": "6480dfe2-38bf-493d-a443-6047f2d4f950",
             "Value": {
-                "id": "06d5c5aa-b9b5-4c88-9f60-c1961bf57fad",
-                "resourcePath": "datafiles_yy\\solutions\\Connect17.csv.yy",
+                "id": "c143d660-c929-4857-a87f-a72da03a2c85",
+                "resourcePath": "datafiles_yy\\Solutions\\Medium\\Connect_4x3_4.csv.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "65367068-e7fc-4d46-aeef-2982312e3506",
+            "Value": {
+                "id": "3deffae5-a198-4427-8ad2-d6e058bb89bf",
+                "resourcePath": "datafiles_yy\\Solutions\\Expert\\Connect_5x5_3.csv.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "67241b57-3a4d-4067-8bfd-7e48f2688629",
+            "Value": {
+                "id": "29020902-c533-4916-a6a4-a4776c36ddbe",
+                "resourcePath": "datafiles_yy\\Solutions\\Hard\\Connect_4x4_4.csv.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
@@ -303,6 +295,14 @@
             }
         },
         {
+            "Key": "6a8a6869-9b74-45fe-8864-83a3c8ec49e2",
+            "Value": {
+                "id": "9dd79ef6-dcb2-4567-801d-0d24289b2a4d",
+                "resourcePath": "datafiles_yy\\Solutions\\Medium\\Connect_4x3_2.csv.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "6c27ae6b-b45b-4135-9793-44132346cfdf",
             "Value": {
                 "id": "4e362f93-2c91-4423-a04e-c201fee475ab",
@@ -311,11 +311,11 @@
             }
         },
         {
-            "Key": "6f1d3583-4242-464c-97bc-b91e290a784d",
+            "Key": "6c2b20a5-c755-4cfd-ac3b-8ad50ab714ef",
             "Value": {
-                "id": "139b28b6-574a-402c-87b5-e1d4afea9da3",
-                "resourcePath": "datafiles_yy\\solutions\\Connect1.csv.yy",
-                "resourceType": "GMIncludedFile"
+                "id": "d352ac5c-3a20-49bd-87e2-9270acf1146e",
+                "resourcePath": "objects\\oScoreWatcher\\oScoreWatcher.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -327,19 +327,27 @@
             }
         },
         {
+            "Key": "737a039b-34d3-4e98-bd6d-0609c68741d7",
+            "Value": {
+                "id": "4878101f-a9d3-4e76-928a-e2dfabf1f300",
+                "resourcePath": "rooms\\roomInit\\roomInit.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "749cabc7-b38b-4790-ac11-a1ececd7d371",
+            "Value": {
+                "id": "f05be0cf-489b-4e4c-abc3-34b90eb9dca9",
+                "resourcePath": "datafiles_yy\\Solutions\\Easy\\Connect_3x3_5.csv.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "7500f60b-80ac-4bd7-9b78-61bd6dbcb1c2",
             "Value": {
                 "id": "b0d3f269-abb5-42c5-82eb-83c3741c127d",
                 "resourcePath": "views\\7500f60b-80ac-4bd7-9b78-61bd6dbcb1c2.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "7ede6b15-ed7f-4a0d-9ef0-b7bbd3d779f0",
-            "Value": {
-                "id": "1bc55a0f-5b63-4345-91ff-18c5e3a9641f",
-                "resourcePath": "datafiles_yy\\levels\\Connect10.csv.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -351,18 +359,18 @@
             }
         },
         {
-            "Key": "817e3ac0-4960-4a14-aa9b-a06a27d58961",
+            "Key": "80505155-1836-4aba-aaa4-30172f87410f",
             "Value": {
-                "id": "cf5d2899-bf3e-48fc-8139-ff27fccb8192",
-                "resourcePath": "datafiles_yy\\solutions\\Connect10.csv.yy",
+                "id": "a8c6e842-cf0b-4da4-a1d0-b061ac3bec57",
+                "resourcePath": "datafiles_yy\\Solutions\\Easy\\Connect_3x3_2.csv.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
         {
-            "Key": "85c08658-77d2-42e7-9fa2-5cd338a5dd28",
+            "Key": "81e5c21f-5cc2-444a-ab9c-f5fe09911d58",
             "Value": {
-                "id": "3bdad25f-70c7-4f97-a168-e8042b7311d6",
-                "resourcePath": "datafiles_yy\\solutions\\Connect16.csv.yy",
+                "id": "b154a78b-abfc-4df8-bbb9-0d8eb6909195",
+                "resourcePath": "datafiles_yy\\Solutions\\Easy\\Connect_3x3_4.csv.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
@@ -391,6 +399,14 @@
             }
         },
         {
+            "Key": "9421263c-6603-4971-ae32-6729585ef23d",
+            "Value": {
+                "id": "ace27ec3-7d92-469c-be59-49d3dc012fd9",
+                "resourcePath": "views\\9421263c-6603-4971-ae32-6729585ef23d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "942ad503-3be3-4624-8fd8-36c4b1b31807",
             "Value": {
                 "id": "f42d841b-ccd7-4444-9bf2-b551f07d7cf0",
@@ -399,26 +415,34 @@
             }
         },
         {
-            "Key": "95a855be-0e88-4c64-b1a2-da94befc7920",
+            "Key": "9c5a71c2-c7f6-40f2-8ca2-09e1a426832f",
             "Value": {
-                "id": "9c514e79-d8f7-464e-b22d-79bcbc65c8d0",
-                "resourcePath": "datafiles_yy\\solutions\\Connect13.csv.yy",
+                "id": "73f05812-2015-4f1b-8753-536a90127764",
+                "resourcePath": "datafiles_yy\\Solutions\\Hard\\Connect_4x4_1.csv.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
         {
-            "Key": "9b26f281-edb0-4b69-8e8c-d345746bb1ce",
+            "Key": "9ca3629d-f4f6-439e-9222-fd91b8095cef",
             "Value": {
-                "id": "56a8636a-9328-4314-893a-f7c5d7246979",
-                "resourcePath": "datafiles_yy\\solutions\\Connect12.csv.yy",
+                "id": "b237775b-56b1-447b-9c6c-063c9831427a",
+                "resourcePath": "datafiles_yy\\Solutions\\Medium\\Connect_4x3_5.csv.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
         {
-            "Key": "9f6a2bbe-72ac-4921-9ad0-42e1d447d77d",
+            "Key": "9ef194cb-ab3b-41c8-be60-3f592e66a760",
             "Value": {
-                "id": "1ec6a9c2-d5da-4ef3-8170-5e1840092413",
-                "resourcePath": "datafiles_yy\\levels\\Connect9.csv.yy",
+                "id": "0730ee8b-947e-4321-ba3c-47697537522a",
+                "resourcePath": "views\\9ef194cb-ab3b-41c8-be60-3f592e66a760.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a047447a-f511-4151-b842-3dc6375d59b2",
+            "Value": {
+                "id": "0c9d8948-5733-4d24-8d33-bbb9fac7f3c2",
+                "resourcePath": "datafiles_yy\\Solutions\\Expert\\Connect_5x5_4.csv.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
@@ -428,6 +452,14 @@
                 "id": "4d13fb03-7e57-4570-83d9-488402d8027a",
                 "resourcePath": "views\\a33d32fc-5e49-4901-a056-7078c5a128bb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a6348389-d09c-4105-a966-a68c9d374341",
+            "Value": {
+                "id": "cb447aa1-465c-459b-8248-d954a956714c",
+                "resourcePath": "datafiles_yy\\Solutions\\Medium\\Connect_4x3_3.csv.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -447,14 +479,6 @@
             }
         },
         {
-            "Key": "aeccdf60-0680-403c-b587-2afe130a9585",
-            "Value": {
-                "id": "28939fc5-6f3d-4c10-ad41-f7c4b2a73cff",
-                "resourcePath": "datafiles_yy\\solutions\\Connect4.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "afb81266-fa3c-4d66-9136-2c78766a5952",
             "Value": {
                 "id": "9d31dac3-1147-462b-b577-72f8b29a6e3d",
@@ -471,35 +495,11 @@
             }
         },
         {
-            "Key": "b43e65db-9602-4d5d-af86-f6eed7b88562",
-            "Value": {
-                "id": "d25599b1-c1b1-491d-be39-8c5a37dedc3e",
-                "resourcePath": "datafiles_yy\\levels\\Connect7.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "b55f27de-bc5d-4d10-ab5a-0b3e4d34ba3d",
             "Value": {
                 "id": "46650943-c673-4bb6-bb61-769ccc426dc8",
                 "resourcePath": "views\\b55f27de-bc5d-4d10-ab5a-0b3e4d34ba3d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "bbe5d29a-c448-4c00-9ac9-2ee4c8cf0a28",
-            "Value": {
-                "id": "7d7b3e74-5c4d-42b3-a775-2889a64d0630",
-                "resourcePath": "datafiles_yy\\solutions\\Connect6.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "bcab153d-2cab-4f0d-93c9-c3b99052c92a",
-            "Value": {
-                "id": "d246b808-79d7-4ac9-9ee8-a0f66cd3c776",
-                "resourcePath": "datafiles_yy\\solutions\\Connect15.csv.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -519,6 +519,22 @@
             }
         },
         {
+            "Key": "c3e892bc-d42d-4406-90d2-0732dcb9b48d",
+            "Value": {
+                "id": "3beb72c9-48a0-400c-a58a-3de69c255f46",
+                "resourcePath": "datafiles_yy\\Solutions\\Hard\\Connect_4x4_3.csv.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c7d13f13-a449-4234-8fe7-8d41576bd621",
+            "Value": {
+                "id": "39cb09d1-4b4b-4b99-970a-5ec040e9aa0e",
+                "resourcePath": "datafiles_yy\\Solutions\\Easy\\Connect_3x3_3.csv.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "af88b43f-23e5-47d9-8183-f0c1765a7345",
@@ -527,18 +543,26 @@
             }
         },
         {
-            "Key": "d5f9bf5d-a4b6-41cc-8e45-a35099be8ffa",
+            "Key": "cf89beef-4dce-47e7-9ab8-6d53f531f102",
             "Value": {
-                "id": "f7ac0a23-79fd-44d4-ad0d-f510d9da3c7a",
-                "resourcePath": "views\\d5f9bf5d-a4b6-41cc-8e45-a35099be8ffa.yy",
+                "id": "ab3cd89a-b893-469b-a860-1d24f2ab8b08",
+                "resourcePath": "objects\\oSetDifficulty\\oSetDifficulty.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d52b8ef7-f308-4d08-8083-ab015cb4ffca",
+            "Value": {
+                "id": "05d6e75f-ad85-4167-adea-2cd283b563e3",
+                "resourcePath": "views\\d52b8ef7-f308-4d08-8083-ab015cb4ffca.yy",
                 "resourceType": "GMFolder"
             }
         },
         {
-            "Key": "d66d81be-ea33-4e6e-813e-2e44c9148eee",
+            "Key": "d5f9bf5d-a4b6-41cc-8e45-a35099be8ffa",
             "Value": {
-                "id": "6542d402-b7ef-4061-9cd1-c3c697613a33",
-                "resourcePath": "views\\d66d81be-ea33-4e6e-813e-2e44c9148eee.yy",
+                "id": "f7ac0a23-79fd-44d4-ad0d-f510d9da3c7a",
+                "resourcePath": "views\\d5f9bf5d-a4b6-41cc-8e45-a35099be8ffa.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -551,11 +575,11 @@
             }
         },
         {
-            "Key": "dee83ebf-4ac4-4834-b921-1acc9797c19b",
+            "Key": "dba9737a-6cb4-4c97-87ec-b0db840d5ab7",
             "Value": {
-                "id": "4be17a7c-29e7-4a6b-982a-08d6ca4c7af2",
-                "resourcePath": "datafiles_yy\\solutions\\Connect7.csv.yy",
-                "resourceType": "GMIncludedFile"
+                "id": "25d0ebde-be82-46de-b12d-290d777e7090",
+                "resourcePath": "sounds\\sndExplosion1\\sndExplosion1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -591,11 +615,11 @@
             }
         },
         {
-            "Key": "e7c42e95-b976-4b15-8ce4-230b4766d728",
+            "Key": "ea191503-2320-4bd9-92f2-7df210eb221e",
             "Value": {
-                "id": "7070fe28-6613-4ce1-b240-c55d06902c06",
-                "resourcePath": "datafiles_yy\\solutions\\Connect19.csv.yy",
-                "resourceType": "GMIncludedFile"
+                "id": "b6f31f31-c997-4809-98ec-6d3716757532",
+                "resourcePath": "objects\\oDifficultyController\\oDifficultyController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -621,39 +645,16 @@
                 "resourcePath": "scripts\\shuffle_location_array\\shuffle_location_array.yy",
                 "resourceType": "GMScript"
             }
-        },
-        {
-            "Key": "f8237097-5874-4dc4-9d42-8d9a24c13824",
-            "Value": {
-                "id": "b4875946-5bab-46a6-9a32-5dc250a0d58c",
-                "resourcePath": "datafiles_yy\\solutions\\Connect9.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "f98db118-5514-4968-80dc-71e23107f3b5",
-            "Value": {
-                "id": "aa80aaa1-ac3c-42c0-bb28-1c54d64803ac",
-                "resourcePath": "datafiles_yy\\levels\\Connect6.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "fe87bc22-d9a2-46a9-8d3b-e29ae18beb06",
-            "Value": {
-                "id": "7882b847-5633-4681-b569-00fd3f9bba64",
-                "resourcePath": "datafiles_yy\\solutions\\Connect11.csv.yy",
-                "resourceType": "GMIncludedFile"
-            }
         }
     ],
     "script_order": [
         "e5933acb-d892-4082-859f-8c909cd18c38",
         "4eb27a8e-77ea-4af2-aeea-55e104362202",
         "f5374c27-c3d5-4395-936b-042d197bc93e",
-        "e5829eaa-fbf9-4662-9274-c5cc276a02ac",
         "2f427b57-5d62-4237-9c9c-e114249d3cf2",
-        "6c27ae6b-b45b-4135-9793-44132346cfdf"
+        "6c27ae6b-b45b-4135-9793-44132346cfdf",
+        "e5829eaa-fbf9-4662-9274-c5cc276a02ac",
+        "5d2471d8-572c-42c0-bc6a-e78e2cbae327"
     ],
     "tutorial": ""
 }

@@ -4,7 +4,7 @@
 tile_width = sprite_get_width(sGridSquare);
 tile_height = sprite_get_height(sGridSquare);
 
-start_level(level);
+start_level(difficulty);
 
 // Set up grid
 for (var i=0; i <= array_length_1d(solution_array)-1; i++) {

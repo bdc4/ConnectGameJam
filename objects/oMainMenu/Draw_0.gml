@@ -19,14 +19,20 @@ if go {
 	
 }
 
-var xx = room_width/2;
+var xx = room_width/4;
 var yy = room_height/2;
 
 for (var i=0; i<array_length_1d(options); i++) {
-
+	
+	// Option
 	draw_text(xx,yy+ i*32, options[i]);
 
 	if selected == i {
+		
+		// Description
+		draw_text(xx + 120,yy + i*32, descriptions[selected]);
+
+		
 		draw_set_alpha(alpha);
 		draw_triangle(
 			xx-18,yy+i*32 - 4,
@@ -38,9 +44,12 @@ for (var i=0; i<array_length_1d(options); i++) {
 	}
 }
 
+
 //draw fade
+/*
 draw_set_alpha(fade_alpha);
 draw_set_color(c_black);
 draw_rectangle(0,0,room_width,room_height,false);
 draw_set_color(c_white);
 draw_set_alpha(1);
+*/

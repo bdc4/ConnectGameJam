@@ -2,11 +2,13 @@
 // You can write your code in this editor
 
 if selected == 0 {
-	room_goto(roomPractice);
+	instance_change(oSetDifficulty, true);
+	TARGET_ROOM = roomPractice;
 }
 
 else if selected == 1 {
-	room_goto(roomPvP);
+	instance_change(oSetDifficulty, true);
+	TARGET_ROOM  = roomPvP;
 }
 
 else if selected == 2 {

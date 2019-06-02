@@ -1,10 +1,20 @@
 
-var level = argument0;
+var difficulty = argument0;
 var ind = 0;
+var levels = get_files_in_folder("Solutions/"+difficulty);
 
-var folder = object_index == oGridSolution ? "solutions" : "levels";
+if object_index == oGrid {
+	var newLevel = irandom(array_length_1d(levels)-1);
+	var newLevel = level;
+		while (newLevel == level) {
+			newLevel = irandom(array_length_1d(levels)-1);
+		}
+		level = newLevel;
+}
+var file_location = levels[level];
+show_debug_message("File Chosen: "+file_location);
+var file_grid = load_csv(file_location);
 
-var file_grid = load_csv(folder+"/Connect"+string(level)+".csv");
 var ww = ds_grid_width(file_grid);
 var hh = ds_grid_height(file_grid);
 for (var i = 0; i < ww; i++;) {
