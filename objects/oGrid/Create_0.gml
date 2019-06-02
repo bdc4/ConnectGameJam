@@ -3,3 +3,5 @@
 
 level = 3;
 alarm[0] = 1;
+win_timer = 30;
+myScore = 0;
