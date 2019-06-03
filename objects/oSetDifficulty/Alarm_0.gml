@@ -2,8 +2,7 @@
 // You can write your code in this editor
 
 if options[selected] == "Back" {
-	instance_change(oMainMenu,true);
-	exit;
+	TARGET_ROOM = roomMainMenu;
 }
 
 DIFFICULTY = options[selected];

@@ -29,9 +29,10 @@ for (var i=0; i<array_length_1d(options); i++) {
 
 	if selected == i {
 		
-		// Description
-		draw_text(xx + 120,yy + i*32, descriptions[selected]);
-
+		if !go {
+			// Description
+			draw_text(xx + 120,yy + i*32, descriptions[selected]);
+		}
 		
 		draw_set_alpha(alpha);
 		draw_triangle(

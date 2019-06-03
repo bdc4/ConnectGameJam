@@ -19,7 +19,7 @@ with (oTile) {
 if win and !instance_exists(oExport) {
 	win_timer--;
 	if win_timer <= 0 {
-		
+		audio_play_sound(sndGridComplete,1,false);
 		with (oTileParent) {
 			if player == other.player or room == roomPractice {
 				instance_create_depth(x,y,depth,oTileDead);

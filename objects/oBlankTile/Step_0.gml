@@ -35,6 +35,7 @@ if ready and player != "NONE" {
 		}
 		
 		with tile.id {
+			sound_on = true;
 			event_user(0);
 		}
 	}

@@ -4,4 +4,5 @@
 if !go {
 	go = true;
 	alarm[0] = 90;
+	audio_play_sound(sndMenuSelect1,1,false);
 }

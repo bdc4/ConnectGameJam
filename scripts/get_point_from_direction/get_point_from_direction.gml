@@ -1,27 +1,27 @@
 
 var p = argument0;
-var arr = [x,y];
+var arr = [true_x,true_y];
 
 switch (p) {
 	
 	case "N": 
-		arr = [x,bbox_top];
+		arr = [true_x,true_y-sprite_height/2];
 		break;
 
 	case "S": 
-		arr = [x,bbox_bottom];
+		arr = [true_x,true_y+sprite_height/2];
 		break;
 		
 	case "E": 
-		arr = [bbox_right,y];
+		arr = [true_x+sprite_width/2,true_y];
 		break;
 		
 	case "W": 
-		arr = [bbox_left,y];
+		arr = [true_x-sprite_width/2,true_y];
 		break;
 	
 	case "*": 
-		arr = [x,y];
+		arr = [true_x,true_y];
 		break;
 	
 }

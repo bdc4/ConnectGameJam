@@ -27,6 +27,12 @@ for (var i=0; i<array_length_1d(options); i++) {
 	draw_text(xx,yy+ i*32, options[i]);
 
 	if selected == i {
+		
+		if !go {
+			// Description
+			draw_text(xx + 120,yy + i*32, descriptions[selected]);
+		}
+		
 		draw_set_alpha(alpha);
 		draw_triangle(
 			xx-18,yy+i*32 - 4,

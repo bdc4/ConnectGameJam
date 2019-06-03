@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Create Tiles on Grid
 // You can write your code in this editor
 
 tile_width = sprite_get_width(sGridSquare);

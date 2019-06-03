@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "493e9228-8603-417c-9f22-0ad149449368",
+            "Value": {
+                "id": "e030d7a5-aecb-4c15-90c8-c91afd3d32a8",
+                "resourcePath": "sounds\\sndTileMove\\sndTileMove.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4acc0275-1341-4dae-be56-6aaf7ce6f5c9",
             "Value": {
                 "id": "cb324fc5-0888-41b9-9851-62a65cc23693",
@@ -348,6 +356,30 @@
                 "id": "b0d3f269-abb5-42c5-82eb-83c3741c127d",
                 "resourcePath": "views\\7500f60b-80ac-4bd7-9b78-61bd6dbcb1c2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "76182850-7cb1-4af8-a8e9-ee1172f0cf49",
+            "Value": {
+                "id": "fc88af79-ce90-435c-9d27-2cdefb3a4ce8",
+                "resourcePath": "sounds\\sndMenuSelect2\\sndMenuSelect2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "79dcdac7-d760-4eba-86ba-1ac226781a34",
+            "Value": {
+                "id": "a426dfc0-9a9a-44b5-a836-203d61a05326",
+                "resourcePath": "sounds\\sndMenuMove\\sndMenuMove.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "79f1f99b-95ca-48a2-a935-d538aee6eef2",
+            "Value": {
+                "id": "de855c63-bd37-42dd-887d-5e9567d99a4a",
+                "resourcePath": "sounds\\sndGridComplete\\sndGridComplete.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -579,6 +611,14 @@
             "Value": {
                 "id": "25d0ebde-be82-46de-b12d-290d777e7090",
                 "resourcePath": "sounds\\sndExplosion1\\sndExplosion1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "dc8ebeb4-2f25-4923-bff7-9728714a7f83",
+            "Value": {
+                "id": "25168239-8a0f-4d96-a181-aa6ab5392b9f",
+                "resourcePath": "sounds\\sndMenuSelect1\\sndMenuSelect1.yy",
                 "resourceType": "GMSound"
             }
         },

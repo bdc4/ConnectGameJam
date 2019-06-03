@@ -3,7 +3,7 @@
 
 // Watch Score
 with (oGrid) {
-	if myScore >= score_limit {
+	if myScore >= other.score_limit {
 		other.win_message = player+" WINS!";
 		instance_destroy(oGrid);
 		with (oTile) {

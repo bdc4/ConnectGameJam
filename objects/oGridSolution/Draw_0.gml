@@ -1,4 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-win_message = "";
-score_limit = 3;
+
+draw_text(32,32,@"
+[ESC] - Main Menu
+[D]   - Change Difficulty
+")

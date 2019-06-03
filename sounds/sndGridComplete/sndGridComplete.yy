@@ -1,8 +1,8 @@
 {
-    "id": "4df68245-35d7-416b-9f6b-7e11c351e37a",
+    "id": "79f1f99b-95ca-48a2-a935-d538aee6eef2",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "sndExplosion3",
+    "name": "sndGridComplete",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.1
+    "volume": 1
 }

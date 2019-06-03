@@ -23,6 +23,10 @@ if target_tile == noone {
 // Swap tiles
 if target_tile != noone and (string_count("*", type) == 0 or string_count("*", type) == 2) {
 	
+	if sound_on {
+		audio_play_sound(sndTileMove,1,false);
+	}
+	
 	var temp_x = x;
 	var temp_y = y;
 	var temp_r = row;
@@ -39,4 +43,6 @@ if target_tile != noone and (string_count("*", type) == 0 or string_count("*", t
 		row = temp_r;
 		column = temp_c;
 	}
+} else if sound_on {
+	audio_play_sound(sndMenuMove,1,false);
 }

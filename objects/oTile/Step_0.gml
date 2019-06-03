@@ -6,3 +6,13 @@ if shake {
 	shake_y = irandom_range(-shake_intensity,shake_intensity);
 	shake_intensity -= .25;
 }
+
+if (player != "NONE") {
+	true_x = lerp(true_x,x,.1);
+	true_y = lerp(true_y,y,.1);
+}
+
+else {
+	true_x = x;
+	true_y = y;
+}
