@@ -19,7 +19,7 @@ p2 = get_point_from_direction(p2);
 
 //show_debug_message("Drawing pipes for "+type+" tile @ " +string(row)+","+string(column));
 
-var col = hot ? c_lime : c_red;
+var col = hot ? c_white : c_red;
 
 draw_set_color(col);
 

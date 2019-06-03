@@ -4,4 +4,5 @@
 draw_text(32,32,@"
 [ESC] - Main Menu
 [D]   - Change Difficulty
+[R]   - Skip Puzzle
 ")

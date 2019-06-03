@@ -16,11 +16,12 @@ for (var i=0; i <= array_length_1d(solution_array)-1; i++) {
 	var type = solution_array[i];
 	
 	var obj = type == "BLANK" ? oBlankTile : oTile;
+	var d = type == "BLANK" ? -10 : 0;
 	
 	var o = instance_create_depth(
 		x + (r-1) * (tile_width + 4),
 		y + (c-1)*(tile_height + 4), 
-		0, 
+		d, 
 		obj
 	);
 	o.type = type;

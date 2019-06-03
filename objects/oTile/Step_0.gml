@@ -8,8 +8,8 @@ if shake {
 }
 
 if (player != "NONE") {
-	true_x = lerp(true_x,x,.1);
-	true_y = lerp(true_y,y,.1);
+	true_x = lerp(true_x,x,.25);
+	true_y = lerp(true_y,y,.25);
 }
 
 else {

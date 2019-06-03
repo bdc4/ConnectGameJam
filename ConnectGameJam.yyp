@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "91c68e19-4d3e-4092-9dd4-c0546cb31c00",
+            "Value": {
+                "id": "1ec46d8f-d74d-4ce4-aff0-678d8b70c1ae",
+                "resourcePath": "objects\\oWireTitle\\oWireTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9421263c-6603-4971-ae32-6729585ef23d",
             "Value": {
                 "id": "ace27ec3-7d92-469c-be59-49d3dc012fd9",
@@ -500,6 +508,14 @@
                 "id": "e7c884a0-af50-4888-94e1-e41141040d85",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ac0adc2c-007c-47b0-a6f8-c8edf3f8aa73",
+            "Value": {
+                "id": "24bea8d6-d695-4aa4-9f16-efd6aea1b77b",
+                "resourcePath": "sounds\\mscMain\\mscMain.yy",
+                "resourceType": "GMSound"
             }
         },
         {

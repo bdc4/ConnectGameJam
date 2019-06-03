@@ -20,7 +20,7 @@ if go {
 }
 
 var xx = room_width/4;
-var yy = room_height/2;
+var yy = room_height * 3/4;
 
 for (var i=0; i<array_length_1d(options); i++) {
 	
@@ -31,7 +31,7 @@ for (var i=0; i<array_length_1d(options); i++) {
 		
 		if !go {
 			// Description
-			draw_text(xx + 120,yy + i*32, descriptions[selected]);
+			draw_text(xx + 150,yy + i*32, descriptions[selected]);
 		}
 		
 		draw_set_alpha(alpha);

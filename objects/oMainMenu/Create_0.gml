@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-options = ["Practice", "Local PvP","Quit"];
+options = ["Single Player", "Local PvP","Quit"];
 descriptions = [
 	"Practice puzzles with side-by-side solutions.",
 	"Face off against a local opponent!",
