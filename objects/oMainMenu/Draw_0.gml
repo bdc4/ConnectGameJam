@@ -31,7 +31,7 @@ for (var i=0; i<array_length_1d(options); i++) {
 		
 		if !go {
 			// Description
-			draw_text(xx + 150,yy + i*32, descriptions[selected]);
+			draw_text(xx + 175,yy + i*32, descriptions[selected]);
 		}
 		
 		draw_set_alpha(alpha);

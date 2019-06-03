@@ -1,4 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-win_message = "";
-score_limit = PLAY_TO;
+
+if !go {
+	go = true;
+	alarm[0] = 90;
+	audio_play_sound(sndMenuSelect1,1,false);
+}

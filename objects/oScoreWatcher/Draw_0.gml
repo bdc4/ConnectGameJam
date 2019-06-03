@@ -8,7 +8,7 @@ if win_message != "" {
 	draw_set_halign(fa_left);
 	var sw = string_width("BACKSPACE to Change Difficulty");
 	draw_text(room_width/2 - sw/2,room_height/2+32,
-	string_hash_to_newline("ENTER     - Play Again#BACKSPACE - Change Difficulty#ESC       - Main Menu"));
+	string_hash_to_newline("ENTER     - Play Again#BACKSPACE - Change Difficulty / Score Limit#ESC       - Main Menu"));
 
 	// Replay
 	if keyboard_check_pressed(vk_enter) {

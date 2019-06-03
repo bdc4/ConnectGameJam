@@ -55,6 +55,22 @@
             }
         },
         {
+            "Key": "13ee7094-1ca9-47a5-8171-23502cead9eb",
+            "Value": {
+                "id": "f3901afe-8b2e-412f-8605-841026a233b1",
+                "resourcePath": "objects\\oPlayTo\\oPlayTo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "182a5d4d-6393-4dd7-88b4-822702010a94",
+            "Value": {
+                "id": "3bc7354e-6a78-4313-ad0b-f7aad5eed1f3",
+                "resourcePath": "fonts\\fntDefault\\fntDefault.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "1c94884d-236d-4f04-8723-99db2933bdb3",
             "Value": {
                 "id": "6f00543b-9e15-4d4d-b273-a3b21e8080c5",

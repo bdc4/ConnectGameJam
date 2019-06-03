@@ -24,14 +24,9 @@ var yy = room_height/2;
 
 for (var i=0; i<array_length_1d(options); i++) {
 
-	draw_text(xx,yy+ i*32, options[i]);
+	draw_text(xx,yy+ i*32, "Play to " + string(options[i]));
 
 	if selected == i {
-		
-		if !go {
-			// Description
-			draw_text(xx + 120,yy + i*32, descriptions[selected]);
-		}
 		
 		draw_set_alpha(alpha);
 		draw_triangle(
@@ -45,7 +40,7 @@ for (var i=0; i<array_length_1d(options); i++) {
 }
 
 //draw fade
-if go and options[selected] != "Back" and TARGET_ROOM == roomPractice {
+if go and options[selected] != "Back" {
 	draw_set_alpha(fade_alpha);
 	draw_set_color(c_black);
 	draw_rectangle(0,0,room_width,room_height,false);

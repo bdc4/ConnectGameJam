@@ -24,7 +24,7 @@ if target_tile == noone {
 if target_tile != noone and (string_count("*", type) == 0 or string_count("*", type) == 2) {
 	
 	if sound_on {
-		audio_play_sound(sndTileMove,1,false);
+		//audio_play_sound(sndTileMove,1,false);
 	}
 	
 	var temp_x = x;

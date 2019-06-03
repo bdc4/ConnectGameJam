@@ -16,35 +16,48 @@ else if player = "P2" {
 }
 
 // Shuffle grid
-var ind = 0;
-while ind < 80 and player != "NONE" {
+var notShuffled = true;
 
-	var tile = noone;
-	var n = instance_place(x,y-sprite_height,oTile);
-	var s = instance_place(x,y+sprite_height,oTile);
-	var e = instance_place(x+sprite_width,y,oTile);
-	var w = instance_place(x-sprite_width,y,oTile);
+while notShuffled and player != "NONE" {
+	var ind = 0;
 	
-	while tile == noone {
-		tile = choose(n,s,e,w);
-	}
+	while ind < 80 {
+		var tile = noone;
+		var n = instance_place(x,y-sprite_height,oTile);
+		var s = instance_place(x,y+sprite_height,oTile);
+		var e = instance_place(x+sprite_width,y,oTile);
+		var w = instance_place(x-sprite_width,y,oTile);
+	
+		while tile == noone {
+			tile = choose(n,s,e,w);
+		}
 
-	// Perform swap
-	if tile != noone {
+		// Perform swap
+		if tile != noone {
 		
-		with (oTile) {
-			if player == other.player {
-				hot = false;
+			with (oTile) {
+				if player == other.player {
+					hot = false;
+				}
+			}
+		
+			with tile.id {
+				event_user(0);
 			}
 		}
-		
-		with tile.id {
-			event_user(0);
+		ind++;
+	}
+	
+	//Check if shuffled enough
+	var unshuffledTiles = 0;
+	with oTile {
+		if player == other.player and x == xstart and y == ystart {
+			unshuffledTiles++;
 		}
 	}
 	
-	ind++;
-
+	notShuffled = false;//unshuffledTiles > 3;
+	
 }
 
 
